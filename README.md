@@ -1,2 +1,2 @@
 # spring_ioc
-IOC项目
+IOC-DEMO
